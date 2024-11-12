@@ -1,2 +1,43 @@
-﻿  实训4.cpp
-  实验7.vcxproj -> D:\c教学\程序\实验7\x64\Debug\实验7.exe
+﻿  实训1 - 副本.cpp
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(11,1): error C2236: 意外的标记“struct”。是否忘记了“;”?
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(12,1): error C2059: 语法错误:“{”
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(12,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(12,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(25,6): error C2182: “ReadStuInfo”: “void” 这一使用无效
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(25,18): error C2065: “StudentInfo”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(25,30): error C2146: 语法错误: 缺少“)”(在标识符“stuList”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(26,6): error C2182: “DispStuInfo”: “void” 这一使用无效
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(26,18): error C2065: “StudentInfo”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(26,30): error C2146: 语法错误: 缺少“)”(在标识符“stuList”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(31,5): error C2065: “StudentInfo”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(31,17): error C2146: 语法错误: 缺少“;”(在标识符“stuList”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(31,17): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(31,41): error C2065: “temp”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(35,17): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(42,17): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(42,37): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(44,17): error C2065: “temp”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(44,24): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(45,17): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(45,30): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(46,17): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(46,34): error C2065: “temp”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(56,17): error C2065: “stuList”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(61,6): error C2182: “ReadStuInfo”: “void” 这一使用无效
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(61,6): error C2374: “ReadStuInfo”: 重定义；多次初始化
+      D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(25,6):
+      参见“ReadStuInfo”的声明
+  
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(61,18): error C2065: “StudentInfo”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(61,30): error C2146: 语法错误: 缺少“)”(在标识符“stuList”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(62,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(62,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(94,6): error C2182: “DispStuInfo”: “void” 这一使用无效
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(94,6): error C2374: “DispStuInfo”: 重定义；多次初始化
+      D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(26,6):
+      参见“DispStuInfo”的声明
+  
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(94,18): error C2065: “StudentInfo”: 未声明的标识符
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(94,30): error C2146: 语法错误: 缺少“)”(在标识符“stuList”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(95,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Github\local\第七次实验\实验7\实训1 - 副本.cpp(95,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
